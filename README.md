@@ -22,3 +22,5 @@ for spin in spins:
  Hello, this is a nice tool!
  Hello, this is a cool tool!
  ```
+## About 
+The tool parses the message and uses Depth First Search to generate all possible outcomes and returns them as a list. Currently nested spintax is not supported.
